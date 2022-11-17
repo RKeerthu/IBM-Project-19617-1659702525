@@ -9,6 +9,9 @@ Pranav K
 
 Karthik R P
 
+Project Video Link:
+https://drive.google.com/file/d/1DX2P0r2NB519NsGs7h42b8eKPy_jCxaT/view?usp=share_link
+
 # IBM-Project-19617-1659702525
 Machine Learning based Vehicle Performance Analyzer
 
