@@ -1,13 +1,11 @@
 
 # TEAM MEMBERS
 
-Prashanna Moorthy S R
-
-Nitish Kumar V A
-
-Pranav K
-
-Karthik R P
+GAYATHRI S
+KEERTHANA R
+NANDHINI S
+SANDEEP S
+SOORAJ K.M
 
 Project Video Link:
 https://drive.google.com/file/d/1DX2P0r2NB519NsGs7h42b8eKPy_jCxaT/view?usp=share_link
