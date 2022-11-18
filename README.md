@@ -1,5 +1,5 @@
 
-**TEAM MEMBERS**
+# TEAM MEMBERS
 
 Prashanna Moorthy S R
 
